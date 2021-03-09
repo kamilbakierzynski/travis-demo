@@ -1,3 +1,3 @@
 # travis-demo
 
-https://travis-ci.com/kamilbakierzynski/travis-demo.svg?token=SzhTbyrppHK6Bx4n8TMq&branch=main
+[![Build Status](https://travis-ci.com/kamilbakierzynski/travis-demo.svg?token=SzhTbyrppHK6Bx4n8TMq&branch=main)](https://travis-ci.com/kamilbakierzynski/travis-demo)
